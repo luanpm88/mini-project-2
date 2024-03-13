@@ -1,11 +1,11 @@
-a:2:{s:4:"body";s:410449:"<!doctype html >
+a:2:{s:4:"body";s:411030:"<!doctype html >
 <html lang="en-US">
 <head>
     <meta charset="UTF-8" />
     <title>Leona Lewis &#8211; Bleeding Love (Dj Dark &#038; Adrian Funk Remix) | sieviesusarunas.lv</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="pingback" href="https://sieviesusarunas.lv/xmlrpc.php" />
-    <meta name='robots' content='max-image-preview:large' />
+    <meta name='robots' content='noindex, nofollow' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel="alternate" type="application/rss+xml" title="sieviesusarunas.lv &raquo; Feed" href="https://sieviesusarunas.lv/feed/" />
 <link rel="alternate" type="application/rss+xml" title="sieviesusarunas.lv &raquo; Comments Feed" href="https://sieviesusarunas.lv/comments/feed/" />
@@ -63,7 +63,7 @@ var breeze_prefetch = {"local_url":"https:\/\/sieviesusarunas.lv","ignore_remote
 <link rel='shortlink' href='https://sieviesusarunas.lv/?p=274' />
 <link rel="alternate" type="application/json+oembed" href="https://sieviesusarunas.lv/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsieviesusarunas.lv%2Fleona-lewis-bleeding-love-dj-dark-adrian-funk-remix%2F" />
 <link rel="alternate" type="text/xml+oembed" href="https://sieviesusarunas.lv/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsieviesusarunas.lv%2Fleona-lewis-bleeding-love-dj-dark-adrian-funk-remix%2F&#038;format=xml" />
-    <script>
+<meta name="generator" content="Site Kit by Google 1.121.0" />    <script>
         window.tdb_global_vars = {"wpRestUrl":"https:\/\/sieviesusarunas.lv\/wp-json\/","permalinkStructure":"\/%postname%\/"};
         window.tdb_p_autoload_vars = {"isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":20,"postAutoloadStatus":"off","origPostEditUrl":null};
     </script>
@@ -202,7 +202,7 @@ var td_magnific_popup_translation_tNext="Next (Right arrow key)";
 var td_magnific_popup_translation_tCounter="%curr% of %total%";
 var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
 var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
-var tdBlockNonce="922ec9e210";
+var tdBlockNonce="860c078244";
 var tdMobileMenu="enabled";
 var tdMobileSearch="enabled";
 var tdDateNamesI18n={"month_names":["January","February","March","April","May","June","July","August","September","October","November","December"],"month_names_short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"day_names":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"day_names_short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]};
@@ -438,7 +438,7 @@ var td_ad_background_click_target="";
 <div class="tdi_16_rand_style td-element-style" ><style>.tdi_16_rand_style{background-color:#222222!important}</style></div><div class="vc_column tdi_19  wpb_column vc_column_container tdc-column td-pb-span12">
 <style scoped>.tdi_19{vertical-align:baseline}.tdi_19>.wpb_wrapper,.tdi_19>.wpb_wrapper>.tdc-elements{display:block}.tdi_19>.wpb_wrapper>.tdc-elements{width:100%}.tdi_19>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_19>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap tdb_header_date tdi_21 td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_21" >
 <style>.tdi_21{margin-right:32px!important}@media (min-width:1019px) and (max-width:1140px){.tdi_21{margin-right:20px!important}}@media (min-width:768px) and (max-width:1018px){.tdi_21{margin-right:20px!important}}</style>
-<style>.tdb_header_date{margin-bottom:0;clear:none}.tdb_header_date .tdb-block-inner{display:flex;align-items:baseline}.tdb_header_date .tdb-head-date-txt{font-family:'Open Sans','Open Sans Regular',sans-serif;font-size:11px;line-height:1;color:#000}.tdi_21{display:inline-block}.tdi_21 .tdb-head-date-txt{color:#ffffff;line-height:28px!important}</style><div class="tdb-block-inner td-fix-index"><div class="tdb-head-date-txt">Tuesday, March 5, 2024</div></div></div> <!-- ./block -->
+<style>.tdb_header_date{margin-bottom:0;clear:none}.tdb_header_date .tdb-block-inner{display:flex;align-items:baseline}.tdb_header_date .tdb-head-date-txt{font-family:'Open Sans','Open Sans Regular',sans-serif;font-size:11px;line-height:1;color:#000}.tdi_21{display:inline-block}.tdi_21 .tdb-head-date-txt{color:#ffffff;line-height:28px!important}</style><div class="tdb-block-inner td-fix-index"><div class="tdb-head-date-txt">Tuesday, March 12, 2024</div></div></div> <!-- ./block -->
 
 <script>
 
@@ -515,50 +515,6 @@ tdBlocksArray.push(block_tdi_43);
         <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
             <div class="td-module-container td-category-pos-image">
                                     <div class="td-image-container">
-                        <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/radio-air-time-marketing-a-new-strategy-for-the-economy/"  rel="bookmark" class="td-image-wrap " title="Radio Air Time Marketing: A New Strategy for the Economy" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/116-324x400.jpg"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/radio-air-time-marketing-a-new-strategy-for-the-economy/"  rel="bookmark" title="Radio Air Time Marketing: A New Strategy for the Economy">Radio Air Time Marketing: A New Strategy for the Economy</a></p>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                    
-                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
-                        <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/social-media-marketing-for-franchises-is-meant-for-women/"  rel="bookmark" class="td-image-wrap " title="Social Media Marketing for Franchises is Meant for Women" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/115-324x400.jpg"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/social-media-marketing-for-franchises-is-meant-for-women/"  rel="bookmark" title="Social Media Marketing for Franchises is Meant for Women">Social Media Marketing for Franchises is Meant for Women</a></p>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                    
-                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
                         <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/entrepreneurial-advertising-the-future-of-marketing/"  rel="bookmark" class="td-image-wrap " title="Entrepreneurial Advertising: The Future Of Marketing" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/114-324x400.jpg"  ></span></a></div>                                            </div>
                 
                 <div class="td-module-meta-info">
@@ -599,6 +555,50 @@ tdBlocksArray.push(block_tdi_43);
             </div>
         </div>
 
+        
+        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-image">
+                                    <div class="td-image-container">
+                        <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/how-nancy-reagan-gave-glamour-and-class-to-the-white-house/"  rel="bookmark" class="td-image-wrap " title="How Nancy Reagan Gave Glamour and Class to the White House" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/112-324x400.jpg"  ></span></a></div>                                            </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/how-nancy-reagan-gave-glamour-and-class-to-the-white-house/"  rel="bookmark" title="How Nancy Reagan Gave Glamour and Class to the White House">How Nancy Reagan Gave Glamour and Class to the White House</a></p>
+                    
+                                            <div class="td-editor-date">
+                                                        
+                                                            <span class="td-author-date">
+                                    
+                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-image">
+                                    <div class="td-image-container">
+                        <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/the-weirdest-places-ashes-have-been-scattered-in-south-america/"  rel="bookmark" class="td-image-wrap " title="The Weirdest Places Ashes Have Been Scattered in South America" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/111-324x400.jpg"  ></span></a></div>                                            </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/the-weirdest-places-ashes-have-been-scattered-in-south-america/"  rel="bookmark" title="The Weirdest Places Ashes Have Been Scattered in South America">The Weirdest Places Ashes Have Been Scattered in South America</a></p>
+                    
+                                            <div class="td-editor-date">
+                                                        
+                                                            <span class="td-author-date">
+                                    
+                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
         </div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" aria-label="prev-page" id="prev-page-tdi_43" data-td_block_id="tdi_43"><i class="td-next-prev-icon td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" aria-label="next-page" id="next-page-tdi_43" data-td_block_id="tdi_43"><i class="td-next-prev-icon td-icon-font td-icon-menu-right"></i></a></div></div></div> <!-- ./block1 --></div></li>
 </ul>
 </li>
@@ -617,50 +617,6 @@ block_tdi_49.ajax_pagination_infinite_stop = "";
 block_tdi_49.max_num_pages = "3";
 tdBlocksArray.push(block_tdi_49);
 </script><div class="tdb-mega-modules-wrap"><div id=tdi_49 class="td_block_inner">
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
-                        <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/radio-air-time-marketing-a-new-strategy-for-the-economy/"  rel="bookmark" class="td-image-wrap " title="Radio Air Time Marketing: A New Strategy for the Economy" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/116-324x400.jpg"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/radio-air-time-marketing-a-new-strategy-for-the-economy/"  rel="bookmark" title="Radio Air Time Marketing: A New Strategy for the Economy">Radio Air Time Marketing: A New Strategy for the Economy</a></p>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                    
-                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
-                        <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/social-media-marketing-for-franchises-is-meant-for-women/"  rel="bookmark" class="td-image-wrap " title="Social Media Marketing for Franchises is Meant for Women" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/115-324x400.jpg"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/social-media-marketing-for-franchises-is-meant-for-women/"  rel="bookmark" title="Social Media Marketing for Franchises is Meant for Women">Social Media Marketing for Franchises is Meant for Women</a></p>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                    
-                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
         <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
             <div class="td-module-container td-category-pos-image">
                                     <div class="td-image-container">
@@ -713,6 +669,50 @@ tdBlocksArray.push(block_tdi_49);
                 <div class="td-module-meta-info">
                                         
                     <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/how-nancy-reagan-gave-glamour-and-class-to-the-white-house/"  rel="bookmark" title="How Nancy Reagan Gave Glamour and Class to the White House">How Nancy Reagan Gave Glamour and Class to the White House</a></p>
+                    
+                                            <div class="td-editor-date">
+                                                        
+                                                            <span class="td-author-date">
+                                    
+                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-image">
+                                    <div class="td-image-container">
+                        <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/the-weirdest-places-ashes-have-been-scattered-in-south-america/"  rel="bookmark" class="td-image-wrap " title="The Weirdest Places Ashes Have Been Scattered in South America" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/111-324x400.jpg"  ></span></a></div>                                            </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/the-weirdest-places-ashes-have-been-scattered-in-south-america/"  rel="bookmark" title="The Weirdest Places Ashes Have Been Scattered in South America">The Weirdest Places Ashes Have Been Scattered in South America</a></p>
+                    
+                                            <div class="td-editor-date">
+                                                        
+                                                            <span class="td-author-date">
+                                    
+                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-image">
+                                    <div class="td-image-container">
+                        <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/the-next-wave-of-superheroes-has-arrived-with-astonishing-impact/"  rel="bookmark" class="td-image-wrap " title="The Next Wave of Superheroes Has Arrived with Astonishing Impact" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/120-324x400.jpg"  ></span></a></div>                                            </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/the-next-wave-of-superheroes-has-arrived-with-astonishing-impact/"  rel="bookmark" title="The Next Wave of Superheroes Has Arrived with Astonishing Impact">The Next Wave of Superheroes Has Arrived with Astonishing Impact</a></p>
                     
                                             <div class="td-editor-date">
                                                         
@@ -958,11 +958,11 @@ tdBlocksArray.push(block_tdi_54);
         <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
             <div class="td-module-container td-category-pos-image">
                                     <div class="td-image-container">
-                        <a href="https://sieviesusarunas.lv/category/video/" class="td-post-category">Video</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/fyre-festival-insight-exclusive-interview-with-ja-rule/"  rel="bookmark" class="td-image-wrap " title="Fyre Festival Insight – Exclusive Interview with Ja Rule" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/112-324x400.jpg"  ></span></a></div>                                            </div>
+                        <a href="https://sieviesusarunas.lv/category/video/" class="td-post-category">Video</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/after-effects-guru-tracking-and-stabilizing-footage/"  rel="bookmark" class="td-image-wrap " title="After Effects Guru: Tracking and Stabilizing Footage" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/117-324x400.jpg"  ></span></a></div>                                            </div>
                 
                 <div class="td-module-meta-info">
                                         
-                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/fyre-festival-insight-exclusive-interview-with-ja-rule/"  rel="bookmark" title="Fyre Festival Insight – Exclusive Interview with Ja Rule">Fyre Festival Insight – Exclusive Interview with Ja Rule</a></p>
+                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/after-effects-guru-tracking-and-stabilizing-footage/"  rel="bookmark" title="After Effects Guru: Tracking and Stabilizing Footage">After Effects Guru: Tracking and Stabilizing Footage</a></p>
                     
                                             <div class="td-editor-date">
                                                         
@@ -1061,7 +1061,7 @@ tdBlocksArray.push(block_tdi_54);
 <style>.tdb_single_date{line-height:30px}.tdb_single_date a{vertical-align:middle}.tdb_single_date .tdb-date-icon-svg{position:relative;line-height:0}.tdb_single_date svg{height:auto}.tdb_single_date svg,.tdb_single_date svg *{fill:#444}.tdi_73{display:inline-block}.tdi_73 svg{width:14px}.tdi_73 .tdb-date-icon{margin-right:5px}</style><div class="tdb-block-inner td-fix-index"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00">March 5, 2024</time></div></div> <!-- ./block --><div class="td_block_wrap tdb_single_comments_count tdi_74 td-pb-border-top td_block_template_1 tdb-post-meta"  data-td-block-uid="tdi_74" >
 <style>.tdb_single_comments_count{line-height:30px}.tdb_single_comments_count .tdb-comm-icon-svg{position:relative;line-height:0}.tdb_single_comments_count svg{height:auto}.tdb_single_comments_count svg,.tdb_single_comments_count svg *{fill:#444}.tdi_74{float:right;display:inline-block}.tdi_74 i{font-size:10px}.tdi_74 .tdb-comm-icon{margin-right:5px}.tdi_74 a{color:#444}.tdi_74 a svg,.tdi_74 a svg *{fill:#444}</style><div class="tdb-block-inner td-fix-index"><a href="https://sieviesusarunas.lv/leona-lewis-bleeding-love-dj-dark-adrian-funk-remix/#respond"><i class="tdb-comm-icon td-icon-comments"></i><span class="tdb-add-text"></span><span>0</span></a></div></div><div class="td_block_wrap tdb_single_post_views tdi_75 td-pb-border-top td_block_template_1 tdb-post-meta"  data-td-block-uid="tdi_75" >
 <style>.tdi_75{margin-right:22px!important}</style>
-<style>.tdb_single_post_views{line-height:30px}.tdb_single_post_views a{vertical-align:middle}.tdb_single_post_views .tdb-views-icon-svg{position:relative;line-height:0}.tdb_single_post_views svg{height:auto}.tdb_single_post_views svg,.tdb_single_post_views svg *{fill:#444}.tdi_75{display:inline-block;float:right}.tdi_75 i{font-size:14px}.tdi_75 .tdb-views-icon{margin-right:5px}</style><div class="tdb-block-inner td-fix-index"><i class="tdb-views-icon td-icon-views"></i><span class="tdb-add-text"></span><span class="td-nr-views-274">1</span></div></div><div class="td_block_wrap tdb_single_post_share tdi_76  td-pb-border-top td_block_template_1"  data-td-block-uid="tdi_76" >
+<style>.tdb_single_post_views{line-height:30px}.tdb_single_post_views a{vertical-align:middle}.tdb_single_post_views .tdb-views-icon-svg{position:relative;line-height:0}.tdb_single_post_views svg{height:auto}.tdb_single_post_views svg,.tdb_single_post_views svg *{fill:#444}.tdi_75{display:inline-block;float:right}.tdi_75 i{font-size:14px}.tdi_75 .tdb-views-icon{margin-right:5px}</style><div class="tdb-block-inner td-fix-index"><i class="tdb-views-icon td-icon-views"></i><span class="tdb-add-text"></span><span class="td-nr-views-274">5</span></div></div><div class="td_block_wrap tdb_single_post_share tdi_76  td-pb-border-top td_block_template_1"  data-td-block-uid="tdi_76" >
 <style>.tdb_single_post_share{margin-bottom:23px}.tdb-share-classic{position:relative;height:20px;margin-bottom:15px}.td-post-sharing-show-all-icons .td-social-sharing-hidden .td-social-expand-tabs{display:none}.td-post-sharing_display-vertically .td-post-sharing-visible,.td-post-sharing_display-vertically .td-social-sharing-hidden{display:flex;flex-direction:column}.tdi_76 .td-post-sharing-visible{align-items:flex-start}</style><div id="tdi_76" class="td-post-sharing tdb-block td-ps-bg td-ps-notext td-post-sharing-style1 ">
 		<style>.td-post-sharing-classic{position:relative;height:20px}.td-post-sharing{margin-left:-3px;margin-right:-3px;font-family:'Open Sans','Open Sans Regular',sans-serif;z-index:2;white-space:nowrap;opacity:0}.td-post-sharing.td-social-show-all{white-space:normal}.td-js-loaded .td-post-sharing{-webkit-transition:opacity 0.3s;transition:opacity 0.3s;opacity:1}.td-post-sharing-classic+.td-post-sharing{margin-top:15px}@media (max-width:767px){.td-post-sharing-classic+.td-post-sharing{margin-top:8px}}.td-post-sharing-top{margin-bottom:30px}@media (max-width:767px){.td-post-sharing-top{margin-bottom:20px}}.td-post-sharing-bottom{border-style:solid;border-color:#ededed;border-width:1px 0;padding:21px 0;margin-bottom:42px}.td-post-sharing-bottom .td-post-sharing{margin-bottom:-7px}.td-post-sharing-visible,.td-social-sharing-hidden{display:inline-block}.td-social-sharing-hidden ul{display:none}.td-social-show-all .td-pulldown-filter-list{display:inline-block}.td-social-network,.td-social-handler{position:relative;display:inline-block;margin:0 3px 7px;height:40px;min-width:40px;font-size:11px;text-align:center;vertical-align:middle}.td-ps-notext .td-social-network .td-social-but-icon,.td-ps-notext .td-social-handler .td-social-but-icon{border-top-right-radius:2px;border-bottom-right-radius:2px}.td-social-network{color:#000;overflow:hidden}.td-social-network .td-social-but-icon{border-top-left-radius:2px;border-bottom-left-radius:2px}.td-social-network .td-social-but-text{border-top-right-radius:2px;border-bottom-right-radius:2px}.td-social-network:hover{opacity:0.8!important}.td-social-handler{color:#444;border:1px solid #e9e9e9;border-radius:2px}.td-social-handler .td-social-but-text{font-weight:700}.td-social-handler .td-social-but-text:before{background-color:#000;opacity:0.08}.td-social-share-text{margin-right:18px}.td-social-share-text:before,.td-social-share-text:after{content:'';position:absolute;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%);left:100%;width:0;height:0;border-style:solid}.td-social-share-text:before{border-width:9px 0 9px 11px;border-color:transparent transparent transparent #e9e9e9}.td-social-share-text:after{border-width:8px 0 8px 10px;border-color:transparent transparent transparent #fff}.td-social-but-text,.td-social-but-icon{display:inline-block;position:relative}.td-social-but-icon{padding-left:13px;padding-right:13px;line-height:40px;z-index:1}.td-social-but-icon i{position:relative;top:-1px;vertical-align:middle}.td-social-but-text{margin-left:-6px;padding-left:12px;padding-right:17px;line-height:40px}.td-social-but-text:before{content:'';position:absolute;top:12px;left:0;width:1px;height:16px;background-color:#fff;opacity:0.2;z-index:1}.td-social-handler i,.td-social-facebook i,.td-social-reddit i,.td-social-linkedin i,.td-social-tumblr i,.td-social-stumbleupon i,.td-social-vk i,.td-social-viber i,.td-social-flipboard i,.td-social-koo i{font-size:14px}.td-social-telegram i{font-size:16px}.td-social-mail i,.td-social-line i,.td-social-print i{font-size:15px}.td-social-handler .td-icon-share{top:-1px;left:-1px}.td-social-twitter .td-icon-twitter{font-size:14px}.td-social-pinterest .td-icon-pinterest{font-size:13px}.td-social-whatsapp .td-icon-whatsapp,.td-social-kakao .td-icon-kakao{font-size:18px}.td-social-kakao .td-icon-kakao:before{color:#3C1B1D}.td-social-reddit .td-social-but-icon{padding-right:12px}.td-social-reddit .td-icon-reddit{left:-1px}.td-social-telegram .td-social-but-icon{padding-right:12px}.td-social-telegram .td-icon-telegram{left:-1px}.td-social-stumbleupon .td-social-but-icon{padding-right:11px}.td-social-stumbleupon .td-icon-stumbleupon{left:-2px}.td-social-digg .td-social-but-icon{padding-right:11px}.td-social-digg .td-icon-digg{left:-2px;font-size:17px}.td-social-vk .td-social-but-icon{padding-right:11px}.td-social-vk .td-icon-vk{left:-2px}.td-social-naver .td-icon-naver{left:-1px;font-size:16px}.td-social-gettr .td-icon-gettr{font-size:25px}.td-ps-notext .td-social-gettr .td-icon-gettr{left:-5px}.td-social-copy_url{position:relative}.td-social-copy_url-check{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);color:#fff;opacity:0;pointer-events:none;transition:opacity .2s ease-in-out;z-index:11}.td-social-copy_url .td-icon-copy_url{left:-1px;font-size:17px}.td-social-copy_url-disabled{pointer-events:none}.td-social-copy_url-disabled .td-icon-copy_url{opacity:0}.td-social-copy_url-copied .td-social-copy_url-check{opacity:1}@keyframes social_copy_url_loader{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.td-social-expand-tabs i{top:-2px;left:-1px;font-size:16px}@media (min-width:767px){.td-social-line,.td-social-viber{display:none}}.td-ps-bg .td-social-network{color:#fff}.td-ps-bg .td-social-facebook .td-social-but-icon,.td-ps-bg .td-social-facebook .td-social-but-text{background-color:#516eab}.td-ps-bg .td-social-twitter .td-social-but-icon,.td-ps-bg .td-social-twitter .td-social-but-text{background-color:#29c5f6}.td-ps-bg .td-social-pinterest .td-social-but-icon,.td-ps-bg .td-social-pinterest .td-social-but-text{background-color:#ca212a}.td-ps-bg .td-social-whatsapp .td-social-but-icon,.td-ps-bg .td-social-whatsapp .td-social-but-text{background-color:#7bbf6a}.td-ps-bg .td-social-reddit .td-social-but-icon,.td-ps-bg .td-social-reddit .td-social-but-text{background-color:#f54200}.td-ps-bg .td-social-mail .td-social-but-icon,.td-ps-bg .td-social-digg .td-social-but-icon,.td-ps-bg .td-social-copy_url .td-social-but-icon,.td-ps-bg .td-social-mail .td-social-but-text,.td-ps-bg .td-social-digg .td-social-but-text,.td-ps-bg .td-social-copy_url .td-social-but-text{background-color:#000}.td-ps-bg .td-social-print .td-social-but-icon,.td-ps-bg .td-social-print .td-social-but-text{background-color:#333}.td-ps-bg .td-social-linkedin .td-social-but-icon,.td-ps-bg .td-social-linkedin .td-social-but-text{background-color:#0266a0}.td-ps-bg .td-social-tumblr .td-social-but-icon,.td-ps-bg .td-social-tumblr .td-social-but-text{background-color:#3e5a70}.td-ps-bg .td-social-telegram .td-social-but-icon,.td-ps-bg .td-social-telegram .td-social-but-text{background-color:#179cde}.td-ps-bg .td-social-stumbleupon .td-social-but-icon,.td-ps-bg .td-social-stumbleupon .td-social-but-text{background-color:#ee4813}.td-ps-bg .td-social-vk .td-social-but-icon,.td-ps-bg .td-social-vk .td-social-but-text{background-color:#4c75a3}.td-ps-bg .td-social-line .td-social-but-icon,.td-ps-bg .td-social-line .td-social-but-text{background-color:#00b900}.td-ps-bg .td-social-viber .td-social-but-icon,.td-ps-bg .td-social-viber .td-social-but-text{background-color:#5d54a4}.td-ps-bg .td-social-naver .td-social-but-icon,.td-ps-bg .td-social-naver .td-social-but-text{background-color:#3ec729}.td-ps-bg .td-social-flipboard .td-social-but-icon,.td-ps-bg .td-social-flipboard .td-social-but-text{background-color:#f42827}.td-ps-bg .td-social-kakao .td-social-but-icon,.td-ps-bg .td-social-kakao .td-social-but-text{background-color:#f9e000}.td-ps-bg .td-social-gettr .td-social-but-icon,.td-ps-bg .td-social-gettr .td-social-but-text{background-color:#fc223b}.td-ps-bg .td-social-koo .td-social-but-icon,.td-ps-bg .td-social-koo .td-social-but-text{background-color:#facd00}.td-ps-dark-bg .td-social-network{color:#fff}.td-ps-dark-bg .td-social-network .td-social-but-icon,.td-ps-dark-bg .td-social-network .td-social-but-text{background-color:#000}.td-ps-border .td-social-network .td-social-but-icon,.td-ps-border .td-social-network .td-social-but-text{line-height:38px;border-width:1px;border-style:solid}.td-ps-border .td-social-network .td-social-but-text{border-left-width:0}.td-ps-border .td-social-network .td-social-but-text:before{background-color:#000;opacity:0.08}.td-ps-border.td-ps-padding .td-social-network .td-social-but-icon{border-right-width:0}.td-ps-border.td-ps-padding .td-social-network.td-social-expand-tabs .td-social-but-icon{border-right-width:1px}.td-ps-border-grey .td-social-but-icon,.td-ps-border-grey .td-social-but-text{border-color:#e9e9e9}.td-ps-border-colored .td-social-facebook .td-social-but-icon,.td-ps-border-colored .td-social-facebook .td-social-but-text{border-color:#516eab}.td-ps-border-colored .td-social-twitter .td-social-but-icon,div.td-ps-border-colored .td-social-twitter .td-social-but-text{border-color:#29c5f6;color:#29c5f6}.td-ps-border-colored .td-social-pinterest .td-social-but-icon,.td-ps-border-colored .td-social-pinterest .td-social-but-text{border-color:#ca212a}.td-ps-border-colored .td-social-whatsapp .td-social-but-icon,.td-ps-border-colored .td-social-whatsapp .td-social-but-text{border-color:#7bbf6a}.td-ps-border-colored .td-social-reddit .td-social-but-icon,.td-ps-border-colored .td-social-reddit .td-social-but-text{border-color:#f54200}.td-ps-border-colored .td-social-mail .td-social-but-icon,.td-ps-border-colored .td-social-digg .td-social-but-icon,.td-ps-border-colored .td-social-copy_url .td-social-but-icon,.td-ps-border-colored .td-social-mail .td-social-but-text,.td-ps-border-colored .td-social-digg .td-social-but-text,.td-ps-border-colored .td-social-copy_url .td-social-but-text{border-color:#000}.td-ps-border-colored .td-social-print .td-social-but-icon,.td-ps-border-colored .td-social-print .td-social-but-text{border-color:#333}.td-ps-border-colored .td-social-linkedin .td-social-but-icon,.td-ps-border-colored .td-social-linkedin .td-social-but-text{border-color:#0266a0}.td-ps-border-colored .td-social-tumblr .td-social-but-icon,.td-ps-border-colored .td-social-tumblr .td-social-but-text{border-color:#3e5a70}.td-ps-border-colored .td-social-telegram .td-social-but-icon,.td-ps-border-colored .td-social-telegram .td-social-but-text{border-color:#179cde}.td-ps-border-colored .td-social-stumbleupon .td-social-but-icon,.td-ps-border-colored .td-social-stumbleupon .td-social-but-text{border-color:#ee4813}.td-ps-border-colored .td-social-vk .td-social-but-icon,.td-ps-border-colored .td-social-vk .td-social-but-text{border-color:#4c75a3}.td-ps-border-colored .td-social-line .td-social-but-icon,.td-ps-border-colored .td-social-line .td-social-but-text{border-color:#00b900}.td-ps-border-colored .td-social-viber .td-social-but-icon,.td-ps-border-colored .td-social-viber .td-social-but-text{border-color:#5d54a4}.td-ps-border-colored .td-social-naver .td-social-but-icon,.td-ps-border-colored .td-social-naver .td-social-but-text{border-color:#3ec729}.td-ps-border-colored .td-social-flipboard .td-social-but-icon,.td-ps-border-colored .td-social-flipboard .td-social-but-text{border-color:#f42827}.td-ps-border-colored .td-social-kakao .td-social-but-icon,.td-ps-border-colored .td-social-kakao .td-social-but-text{border-color:#f9e000}.td-ps-border-colored .td-social-gettr .td-social-but-icon,.td-ps-border-colored .td-social-gettr .td-social-but-text{border-color:#fc223b}.td-ps-border-colored .td-social-koo .td-social-but-icon,.td-ps-border-colored .td-social-koo .td-social-but-text{border-color:#facd00}.td-ps-icon-bg .td-social-but-icon{height:100%;border-color:transparent!important}.td-ps-icon-bg .td-social-network .td-social-but-icon{color:#fff}.td-ps-icon-bg .td-social-facebook .td-social-but-icon{background-color:#516eab}.td-ps-icon-bg .td-social-twitter .td-social-but-icon{background-color:#29c5f6}.td-ps-icon-bg .td-social-pinterest .td-social-but-icon{background-color:#ca212a}.td-ps-icon-bg .td-social-whatsapp .td-social-but-icon{background-color:#7bbf6a}.td-ps-icon-bg .td-social-reddit .td-social-but-icon{background-color:#f54200}.td-ps-icon-bg .td-social-mail .td-social-but-icon,.td-ps-icon-bg .td-social-digg .td-social-but-icon,.td-ps-icon-bg .td-social-copy_url .td-social-but-icon{background-color:#000}.td-ps-icon-bg .td-social-print .td-social-but-icon{background-color:#333}.td-ps-icon-bg .td-social-linkedin .td-social-but-icon{background-color:#0266a0}.td-ps-icon-bg .td-social-tumblr .td-social-but-icon{background-color:#3e5a70}.td-ps-icon-bg .td-social-telegram .td-social-but-icon{background-color:#179cde}.td-ps-icon-bg .td-social-stumbleupon .td-social-but-icon{background-color:#ee4813}.td-ps-icon-bg .td-social-vk .td-social-but-icon{background-color:#4c75a3}.td-ps-icon-bg .td-social-line .td-social-but-icon{background-color:#00b900}.td-ps-icon-bg .td-social-viber .td-social-but-icon{background-color:#5d54a4}.td-ps-icon-bg .td-social-naver .td-social-but-icon{background-color:#3ec729}.td-ps-icon-bg .td-social-flipboard .td-social-but-icon{background-color:#f42827}.td-ps-icon-bg .td-social-kakao .td-social-but-icon{background-color:#f9e000}.td-ps-icon-bg .td-social-gettr .td-social-but-icon{background-color:#fc223b}.td-ps-icon-bg .td-social-koo .td-social-but-icon{background-color:#facd00}.td-ps-icon-bg .td-social-but-text{margin-left:-3px}.td-ps-icon-bg .td-social-network .td-social-but-text:before{display:none}.td-ps-icon-arrow .td-social-network .td-social-but-icon:after{content:'';position:absolute;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%);left:calc(100% + 1px);width:0;height:0;border-style:solid;border-width:9px 0 9px 11px;border-color:transparent transparent transparent #000}.td-ps-icon-arrow .td-social-network .td-social-but-text{padding-left:20px}.td-ps-icon-arrow .td-social-network .td-social-but-text:before{display:none}.td-ps-icon-arrow.td-ps-padding .td-social-network .td-social-but-icon:after{left:100%}.td-ps-icon-arrow .td-social-facebook .td-social-but-icon:after{border-left-color:#516eab}.td-ps-icon-arrow .td-social-twitter .td-social-but-icon:after{border-left-color:#29c5f6}.td-ps-icon-arrow .td-social-pinterest .td-social-but-icon:after{border-left-color:#ca212a}.td-ps-icon-arrow .td-social-whatsapp .td-social-but-icon:after{border-left-color:#7bbf6a}.td-ps-icon-arrow .td-social-reddit .td-social-but-icon:after{border-left-color:#f54200}.td-ps-icon-arrow .td-social-mail .td-social-but-icon:after,.td-ps-icon-arrow .td-social-digg .td-social-but-icon:after,.td-ps-icon-arrow .td-social-copy_url .td-social-but-icon:after{border-left-color:#000}.td-ps-icon-arrow .td-social-print .td-social-but-icon:after{border-left-color:#333}.td-ps-icon-arrow .td-social-linkedin .td-social-but-icon:after{border-left-color:#0266a0}.td-ps-icon-arrow .td-social-tumblr .td-social-but-icon:after{border-left-color:#3e5a70}.td-ps-icon-arrow .td-social-telegram .td-social-but-icon:after{border-left-color:#179cde}.td-ps-icon-arrow .td-social-stumbleupon .td-social-but-icon:after{border-left-color:#ee4813}.td-ps-icon-arrow .td-social-vk .td-social-but-icon:after{border-left-color:#4c75a3}.td-ps-icon-arrow .td-social-line .td-social-but-icon:after{border-left-color:#00b900}.td-ps-icon-arrow .td-social-viber .td-social-but-icon:after{border-left-color:#5d54a4}.td-ps-icon-arrow .td-social-naver .td-social-but-icon:after{border-left-color:#3ec729}.td-ps-icon-arrow .td-social-flipboard .td-social-but-icon:after{border-left-color:#f42827}.td-ps-icon-arrow .td-social-kakao .td-social-but-icon:after{border-left-color:#f9e000}.td-ps-icon-arrow .td-social-gettr .td-social-but-icon:after{border-left-color:#fc223b}.td-ps-icon-arrow .td-social-koo .td-social-but-icon:after{border-left-color:#facd00}.td-ps-icon-arrow .td-social-expand-tabs .td-social-but-icon:after{display:none}.td-ps-icon-color .td-social-facebook .td-social-but-icon{color:#516eab}.td-ps-icon-color .td-social-pinterest .td-social-but-icon{color:#ca212a}.td-ps-icon-color .td-social-whatsapp .td-social-but-icon{color:#7bbf6a}.td-ps-icon-color .td-social-reddit .td-social-but-icon{color:#f54200}.td-ps-icon-color .td-social-mail .td-social-but-icon,.td-ps-icon-color .td-social-digg .td-social-but-icon,.td-ps-icon-color .td-social-copy_url .td-social-but-icon,.td-ps-icon-color .td-social-copy_url-check,.td-ps-icon-color .td-social-twitter .td-social-but-icon{color:#000}.td-ps-icon-color .td-social-print .td-social-but-icon{color:#333}.td-ps-icon-color .td-social-linkedin .td-social-but-icon{color:#0266a0}.td-ps-icon-color .td-social-tumblr .td-social-but-icon{color:#3e5a70}.td-ps-icon-color .td-social-telegram .td-social-but-icon{color:#179cde}.td-ps-icon-color .td-social-stumbleupon .td-social-but-icon{color:#ee4813}.td-ps-icon-color .td-social-vk .td-social-but-icon{color:#4c75a3}.td-ps-icon-color .td-social-line .td-social-but-icon{color:#00b900}.td-ps-icon-color .td-social-viber .td-social-but-icon{color:#5d54a4}.td-ps-icon-color .td-social-naver .td-social-but-icon{color:#3ec729}.td-ps-icon-color .td-social-flipboard .td-social-but-icon{color:#f42827}.td-ps-icon-color .td-social-kakao .td-social-but-icon{color:#f9e000}.td-ps-icon-color .td-social-gettr .td-social-but-icon{color:#fc223b}.td-ps-icon-color .td-social-koo .td-social-but-icon{color:#facd00}.td-ps-text-color .td-social-but-text{font-weight:700}.td-ps-text-color .td-social-facebook .td-social-but-text{color:#516eab}.td-ps-text-color .td-social-twitter .td-social-but-text{color:#29c5f6}.td-ps-text-color .td-social-pinterest .td-social-but-text{color:#ca212a}.td-ps-text-color .td-social-whatsapp .td-social-but-text{color:#7bbf6a}.td-ps-text-color .td-social-reddit .td-social-but-text{color:#f54200}.td-ps-text-color .td-social-mail .td-social-but-text,.td-ps-text-color .td-social-digg .td-social-but-text,.td-ps-text-color .td-social-copy_url .td-social-but-text{color:#000}.td-ps-text-color .td-social-print .td-social-but-text{color:#333}.td-ps-text-color .td-social-linkedin .td-social-but-text{color:#0266a0}.td-ps-text-color .td-social-tumblr .td-social-but-text{color:#3e5a70}.td-ps-text-color .td-social-telegram .td-social-but-text{color:#179cde}.td-ps-text-color .td-social-stumbleupon .td-social-but-text{color:#ee4813}.td-ps-text-color .td-social-vk .td-social-but-text{color:#4c75a3}.td-ps-text-color .td-social-line .td-social-but-text{color:#00b900}.td-ps-text-color .td-social-viber .td-social-but-text{color:#5d54a4}.td-ps-text-color .td-social-naver .td-social-but-text{color:#3ec729}.td-ps-text-color .td-social-flipboard .td-social-but-text{color:#f42827}.td-ps-text-color .td-social-kakao .td-social-but-text{color:#f9e000}.td-ps-text-color .td-social-gettr .td-social-but-text{color:#fc223b}.td-ps-text-color .td-social-koo .td-social-but-text{color:#facd00}.td-ps-text-color .td-social-expand-tabs .td-social-but-text{color:#b1b1b1}.td-ps-notext .td-social-but-icon{width:40px}.td-ps-notext .td-social-network .td-social-but-text{display:none}.td-ps-padding .td-social-network .td-social-but-icon{padding-left:17px;padding-right:17px}.td-ps-padding .td-social-handler .td-social-but-icon{width:40px}.td-ps-padding .td-social-reddit .td-social-but-icon,.td-ps-padding .td-social-telegram .td-social-but-icon{padding-right:16px}.td-ps-padding .td-social-stumbleupon .td-social-but-icon,.td-ps-padding .td-social-digg .td-social-but-icon,.td-ps-padding .td-social-expand-tabs .td-social-but-icon{padding-right:13px}.td-ps-padding .td-social-vk .td-social-but-icon{padding-right:14px}.td-ps-padding .td-social-expand-tabs .td-social-but-icon{padding-left:13px}.td-ps-rounded .td-social-network .td-social-but-icon{border-top-left-radius:100px;border-bottom-left-radius:100px}.td-ps-rounded .td-social-network .td-social-but-text{border-top-right-radius:100px;border-bottom-right-radius:100px}.td-ps-rounded.td-ps-notext .td-social-network .td-social-but-icon{border-top-right-radius:100px;border-bottom-right-radius:100px}.td-ps-rounded .td-social-expand-tabs{border-radius:100px}.td-ps-bar .td-social-network .td-social-but-icon,.td-ps-bar .td-social-network .td-social-but-text{-webkit-box-shadow:inset 0px -3px 0px 0px rgba(0,0,0,0.31);box-shadow:inset 0px -3px 0px 0px rgba(0,0,0,0.31)}.td-ps-bar .td-social-mail .td-social-but-icon,.td-ps-bar .td-social-digg .td-social-but-icon,.td-ps-bar .td-social-copy_url .td-social-but-icon,.td-ps-bar .td-social-mail .td-social-but-text,.td-ps-bar .td-social-digg .td-social-but-text,.td-ps-bar .td-social-copy_url .td-social-but-text{-webkit-box-shadow:inset 0px -3px 0px 0px rgba(255,255,255,0.28);box-shadow:inset 0px -3px 0px 0px rgba(255,255,255,0.28)}.td-ps-bar .td-social-print .td-social-but-icon,.td-ps-bar .td-social-print .td-social-but-text{-webkit-box-shadow:inset 0px -3px 0px 0px rgba(255,255,255,0.2);box-shadow:inset 0px -3px 0px 0px rgba(255,255,255,0.2)}.td-ps-big .td-social-but-icon{display:block;line-height:60px}.td-ps-big .td-social-but-icon .td-icon-share{width:auto}.td-ps-big .td-social-handler .td-social-but-text:before{display:none}.td-ps-big .td-social-share-text .td-social-but-icon{width:90px}.td-ps-big .td-social-expand-tabs .td-social-but-icon{width:60px}@media (max-width:767px){.td-ps-big .td-social-share-text{display:none}}.td-ps-big .td-social-facebook i,.td-ps-big .td-social-reddit i,.td-ps-big .td-social-mail i,.td-ps-big .td-social-linkedin i,.td-ps-big .td-social-tumblr i,.td-ps-big .td-social-stumbleupon i{margin-top:-2px}.td-ps-big .td-social-facebook i,.td-ps-big .td-social-reddit i,.td-ps-big .td-social-linkedin i,.td-ps-big .td-social-tumblr i,.td-ps-big .td-social-stumbleupon i,.td-ps-big .td-social-vk i,.td-ps-big .td-social-viber i,.td-ps-big .td-social-fliboard i,.td-ps-big .td-social-koo i,.td-ps-big .td-social-share-text i{font-size:22px}.td-ps-big .td-social-telegram i{font-size:24px}.td-ps-big .td-social-mail i,.td-ps-big .td-social-line i,.td-ps-big .td-social-print i{font-size:23px}.td-ps-big .td-social-twitter i,.td-ps-big .td-social-expand-tabs i{font-size:20px}.td-ps-big .td-social-whatsapp i,.td-ps-big .td-social-naver i,.td-ps-big .td-social-flipboard i,.td-ps-big .td-social-kakao i{font-size:26px}.td-ps-big .td-social-pinterest .td-icon-pinterest{font-size:21px}.td-ps-big .td-social-telegram .td-icon-telegram{left:1px}.td-ps-big .td-social-stumbleupon .td-icon-stumbleupon{left:-2px}.td-ps-big .td-social-digg .td-icon-digg{left:-1px;font-size:25px}.td-ps-big .td-social-vk .td-icon-vk{left:-1px}.td-ps-big .td-social-naver .td-icon-naver{left:0}.td-ps-big .td-social-gettr .td-icon-gettr{left:-1px}.td-ps-big .td-social-copy_url .td-icon-copy_url{left:0;font-size:25px}.td-ps-big .td-social-copy_url-check{font-size:18px}.td-ps-big .td-social-but-text{margin-left:0;padding-top:0;padding-left:17px}.td-ps-big.td-ps-notext .td-social-network,.td-ps-big.td-ps-notext .td-social-handler{height:60px}.td-ps-big.td-ps-notext .td-social-network{width:60px}.td-ps-big.td-ps-notext .td-social-network .td-social-but-icon{width:60px}.td-ps-big.td-ps-notext .td-social-share-text .td-social-but-icon{line-height:40px}.td-ps-big.td-ps-notext .td-social-share-text .td-social-but-text{display:block;line-height:1}.td-ps-big.td-ps-padding .td-social-network,.td-ps-big.td-ps-padding .td-social-handler{height:90px;font-size:13px}.td-ps-big.td-ps-padding .td-social-network{min-width:60px}.td-ps-big.td-ps-padding .td-social-but-icon{border-bottom-left-radius:0;border-top-right-radius:2px}.td-ps-big.td-ps-padding.td-ps-bar .td-social-but-icon{-webkit-box-shadow:none;box-shadow:none}.td-ps-big.td-ps-padding .td-social-but-text{display:block;padding-bottom:17px;line-height:1;border-top-left-radius:0;border-top-right-radius:0;border-bottom-left-radius:2px}.td-ps-big.td-ps-padding .td-social-but-text:before{display:none}.td-ps-big.td-ps-padding .td-social-expand-tabs i{line-height:90px}.td-ps-nogap{margin-left:0;margin-right:0}.td-ps-nogap .td-social-network,.td-ps-nogap .td-social-handler{margin-left:0;margin-right:0;border-radius:0}.td-ps-nogap .td-social-network .td-social-but-icon,.td-ps-nogap .td-social-network .td-social-but-text{border-radius:0}.td-ps-nogap .td-social-expand-tabs{border-radius:0}.td-post-sharing-style7 .td-social-network .td-social-but-icon{height:100%}.td-post-sharing-style7 .td-social-network .td-social-but-icon:before{content:'';position:absolute;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,0.31)}.td-post-sharing-style7 .td-social-network .td-social-but-text{padding-left:17px}.td-post-sharing-style7 .td-social-network .td-social-but-text:before{display:none}.td-post-sharing-style7 .td-social-mail .td-social-but-icon:before,.td-post-sharing-style7 .td-social-digg .td-social-but-icon:before,.td-post-sharing-style7 .td-social-copy_url .td-social-but-icon:before{background-color:rgba(255,255,255,0.2)}.td-post-sharing-style7 .td-social-print .td-social-but-icon:before{background-color:rgba(255,255,255,0.1)}@media (max-width:767px){.td-post-sharing-style1 .td-social-share-text .td-social-but-text,.td-post-sharing-style3 .td-social-share-text .td-social-but-text,.td-post-sharing-style5 .td-social-share-text .td-social-but-text,.td-post-sharing-style14 .td-social-share-text .td-social-but-text,.td-post-sharing-style16 .td-social-share-text .td-social-but-text{display:none!important}}@media (max-width:767px){.td-post-sharing-style2 .td-social-share-text,.td-post-sharing-style4 .td-social-share-text,.td-post-sharing-style6 .td-social-share-text,.td-post-sharing-style7 .td-social-share-text,.td-post-sharing-style15 .td-social-share-text,.td-post-sharing-style17 .td-social-share-text,.td-post-sharing-style18 .td-social-share-text,.td-post-sharing-style19 .td-social-share-text,.td-post-sharing-style20 .td-social-share-text{display:none!important}}</style>
 
@@ -1206,11 +1206,11 @@ tdBlocksArray.push(block_tdi_89);
         <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
             <div class="td-module-container td-category-pos-image">
                                     <div class="td-image-container">
-                        <a href="https://sieviesusarunas.lv/category/music/" class="td-post-category">Music</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/post-malone-goodbyes-ft-young-thug-trap-flow-remix/"  rel="bookmark" class="td-image-wrap " title="Post Malone &#8211; Goodbyes Ft. Young Thug (Trap Flow Remix)" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/112-485x360.jpg"  ></span></a></div>                                                                    </div>
+                        <a href="https://sieviesusarunas.lv/category/music/" class="td-post-category">Music</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/dj-dark-autumn-vibes-september-2019/"  rel="bookmark" class="td-image-wrap " title="Dj Dark &#8211; Autumn Vibes (September 2019)" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/111-485x360.jpg"  ></span></a></div>                                                                    </div>
                 
                 <div class="td-module-meta-info">
                                         
-                    <h3 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/post-malone-goodbyes-ft-young-thug-trap-flow-remix/"  rel="bookmark" title="Post Malone &#8211; Goodbyes Ft. Young Thug (Trap Flow Remix)">Post Malone &#8211; Goodbyes Ft. Young Thug (Trap Flow Remix)</a></h3>
+                    <h3 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/dj-dark-autumn-vibes-september-2019/"  rel="bookmark" title="Dj Dark &#8211; Autumn Vibes (September 2019)">Dj Dark &#8211; Autumn Vibes (September 2019)</a></h3>
                     
                                             <div class="td-editor-date">
                                                         
@@ -1628,6 +1628,18 @@ tdBlocksArray.push(block_tdi_109);
 
 </div><!--close td-outer-wrap-->
 
+<!-- Gemius Audience for WordPress by TLA Media - http://www.tlamedia.dk/ -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = '';
+
+(function(d,t) {var ex; try {var
+gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':'');
+gt.async='true'; gt.src=l+'://gadk.hit.gemius.pl/xlgemius.js'; s.parentNode.insertBefore(gt,s);} catch (ex)
+{}}(document,'script'));
+//--><!]]>
+</script>
+<!-- End Gemius Audience for WordPress -->
 
 
     <!--
@@ -1636,7 +1648,7 @@ tdBlocksArray.push(block_tdi_109);
         Version: 12.6.4 (rara)
         Deploy mode: deploy
         
-        uid: 65e69bc94dcae
+        uid: 65f021e5abe46
     -->
 
     <script type="text/javascript" src="https://sieviesusarunas.lv/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
@@ -1815,5 +1827,5 @@ tdBlocksArray.push(block_tdi_109);
 </body>
 </html>
 
-<!-- Cache served by breeze CACHE (Desktop) - Last modified: Tue, 05 Mar 2024 04:12:57 GMT -->
-";s:7:"headers";a:3:{i:0;a:2:{s:4:"name";s:14:"Content-Length";s:5:"value";i:410449;}i:1;a:2:{s:4:"name";s:12:"Content-Type";s:5:"value";s:24:"text/html; charset=utf-8";}i:2;a:2:{s:4:"name";s:13:"Last-Modified";s:5:"value";s:29:"Tue, 05 Mar 2024 04:12:57 GMT";}}}
+<!-- Cache served by breeze CACHE (Desktop) - Last modified: Tue, 12 Mar 2024 09:35:33 GMT -->
+";s:7:"headers";a:3:{i:0;a:2:{s:4:"name";s:14:"Content-Length";s:5:"value";i:411030;}i:1;a:2:{s:4:"name";s:12:"Content-Type";s:5:"value";s:24:"text/html; charset=utf-8";}i:2;a:2:{s:4:"name";s:13:"Last-Modified";s:5:"value";s:29:"Tue, 12 Mar 2024 09:35:33 GMT";}}}

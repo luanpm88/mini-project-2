@@ -1,11 +1,11 @@
-a:2:{s:4:"body";s:377513:"<!doctype html >
+a:2:{s:4:"body";s:378195:"<!doctype html >
 <html lang="en-US">
 <head>
     <meta charset="UTF-8" />
     <title>New Look | sieviesusarunas.lv</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="pingback" href="https://sieviesusarunas.lv/xmlrpc.php" />
-    <meta name='robots' content='max-image-preview:large' />
+    <meta name='robots' content='noindex, nofollow' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel="alternate" type="application/rss+xml" title="sieviesusarunas.lv &raquo; Feed" href="https://sieviesusarunas.lv/feed/" />
 <link rel="alternate" type="application/rss+xml" title="sieviesusarunas.lv &raquo; Comments Feed" href="https://sieviesusarunas.lv/comments/feed/" />
@@ -58,7 +58,7 @@ var breeze_prefetch = {"local_url":"https:\/\/sieviesusarunas.lv","ignore_remote
 <script type="text/javascript" src="https://sieviesusarunas.lv/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <link rel="https://api.w.org/" href="https://sieviesusarunas.lv/wp-json/" /><link rel="alternate" type="application/json" href="https://sieviesusarunas.lv/wp-json/wp/v2/categories/15" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sieviesusarunas.lv/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 6.4.3" />
-    <script>
+<meta name="generator" content="Site Kit by Google 1.121.0" />    <script>
         window.tdb_global_vars = {"wpRestUrl":"https:\/\/sieviesusarunas.lv\/wp-json\/","permalinkStructure":"\/%postname%\/"};
         window.tdb_p_autoload_vars = {"isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":20};
     </script>
@@ -197,7 +197,7 @@ var td_magnific_popup_translation_tNext="Next (Right arrow key)";
 var td_magnific_popup_translation_tCounter="%curr% of %total%";
 var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
 var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
-var tdBlockNonce="922ec9e210";
+var tdBlockNonce="860c078244";
 var tdMobileMenu="enabled";
 var tdMobileSearch="enabled";
 var tdDateNamesI18n={"month_names":["January","February","March","April","May","June","July","August","September","October","November","December"],"month_names_short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"day_names":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"day_names_short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]};
@@ -433,7 +433,7 @@ var td_ad_background_click_target="";
 <div class="tdi_16_rand_style td-element-style" ><style>.tdi_16_rand_style{background-color:#222222!important}</style></div><div class="vc_column tdi_19  wpb_column vc_column_container tdc-column td-pb-span12">
 <style scoped>.tdi_19{vertical-align:baseline}.tdi_19>.wpb_wrapper,.tdi_19>.wpb_wrapper>.tdc-elements{display:block}.tdi_19>.wpb_wrapper>.tdc-elements{width:100%}.tdi_19>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_19>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap tdb_header_date tdi_21 td-pb-border-top td_block_template_1 tdb-header-align"  data-td-block-uid="tdi_21" >
 <style>.tdi_21{margin-right:32px!important}@media (min-width:1019px) and (max-width:1140px){.tdi_21{margin-right:20px!important}}@media (min-width:768px) and (max-width:1018px){.tdi_21{margin-right:20px!important}}</style>
-<style>.tdb_header_date{margin-bottom:0;clear:none}.tdb_header_date .tdb-block-inner{display:flex;align-items:baseline}.tdb_header_date .tdb-head-date-txt{font-family:'Open Sans','Open Sans Regular',sans-serif;font-size:11px;line-height:1;color:#000}.tdi_21{display:inline-block}.tdi_21 .tdb-head-date-txt{color:#ffffff;line-height:28px!important}</style><div class="tdb-block-inner td-fix-index"><div class="tdb-head-date-txt">Tuesday, March 5, 2024</div></div></div> <!-- ./block -->
+<style>.tdb_header_date{margin-bottom:0;clear:none}.tdb_header_date .tdb-block-inner{display:flex;align-items:baseline}.tdb_header_date .tdb-head-date-txt{font-family:'Open Sans','Open Sans Regular',sans-serif;font-size:11px;line-height:1;color:#000}.tdi_21{display:inline-block}.tdi_21 .tdb-head-date-txt{color:#ffffff;line-height:28px!important}</style><div class="tdb-block-inner td-fix-index"><div class="tdb-head-date-txt">Tuesday, March 12, 2024</div></div></div> <!-- ./block -->
 
 <script>
 
@@ -510,50 +510,6 @@ tdBlocksArray.push(block_tdi_43);
         <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
             <div class="td-module-container td-category-pos-image">
                                     <div class="td-image-container">
-                        <a href="https://sieviesusarunas.lv/category/fashion/new-look/" class="td-post-category">New Look</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/radio-air-time-marketing-a-new-strategy-for-the-economy/"  rel="bookmark" class="td-image-wrap " title="Radio Air Time Marketing: A New Strategy for the Economy" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/116-324x400.jpg"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/radio-air-time-marketing-a-new-strategy-for-the-economy/"  rel="bookmark" title="Radio Air Time Marketing: A New Strategy for the Economy">Radio Air Time Marketing: A New Strategy for the Economy</a></p>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                    
-                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
-                        <a href="https://sieviesusarunas.lv/category/fashion/new-look/" class="td-post-category">New Look</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/social-media-marketing-for-franchises-is-meant-for-women/"  rel="bookmark" class="td-image-wrap " title="Social Media Marketing for Franchises is Meant for Women" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/115-324x400.jpg"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/social-media-marketing-for-franchises-is-meant-for-women/"  rel="bookmark" title="Social Media Marketing for Franchises is Meant for Women">Social Media Marketing for Franchises is Meant for Women</a></p>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                    
-                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
                         <a href="https://sieviesusarunas.lv/category/fashion/new-look/" class="td-post-category">New Look</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/entrepreneurial-advertising-the-future-of-marketing/"  rel="bookmark" class="td-image-wrap " title="Entrepreneurial Advertising: The Future Of Marketing" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/114-324x400.jpg"  ></span></a></div>                                            </div>
                 
                 <div class="td-module-meta-info">
@@ -594,6 +550,50 @@ tdBlocksArray.push(block_tdi_43);
             </div>
         </div>
 
+        
+        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-image">
+                                    <div class="td-image-container">
+                        <a href="https://sieviesusarunas.lv/category/fashion/new-look/" class="td-post-category">New Look</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/how-nancy-reagan-gave-glamour-and-class-to-the-white-house/"  rel="bookmark" class="td-image-wrap " title="How Nancy Reagan Gave Glamour and Class to the White House" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/112-324x400.jpg"  ></span></a></div>                                            </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/how-nancy-reagan-gave-glamour-and-class-to-the-white-house/"  rel="bookmark" title="How Nancy Reagan Gave Glamour and Class to the White House">How Nancy Reagan Gave Glamour and Class to the White House</a></p>
+                    
+                                            <div class="td-editor-date">
+                                                        
+                                                            <span class="td-author-date">
+                                    
+                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-image">
+                                    <div class="td-image-container">
+                        <a href="https://sieviesusarunas.lv/category/fashion/new-look/" class="td-post-category">New Look</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/the-weirdest-places-ashes-have-been-scattered-in-south-america/"  rel="bookmark" class="td-image-wrap " title="The Weirdest Places Ashes Have Been Scattered in South America" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/111-324x400.jpg"  ></span></a></div>                                            </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/the-weirdest-places-ashes-have-been-scattered-in-south-america/"  rel="bookmark" title="The Weirdest Places Ashes Have Been Scattered in South America">The Weirdest Places Ashes Have Been Scattered in South America</a></p>
+                    
+                                            <div class="td-editor-date">
+                                                        
+                                                            <span class="td-author-date">
+                                    
+                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
         </div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" aria-label="prev-page" id="prev-page-tdi_43" data-td_block_id="tdi_43"><i class="td-next-prev-icon td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" aria-label="next-page" id="next-page-tdi_43" data-td_block_id="tdi_43"><i class="td-next-prev-icon td-icon-font td-icon-menu-right"></i></a></div></div></div> <!-- ./block1 --></div></li>
 </ul>
 </li>
@@ -612,50 +612,6 @@ block_tdi_49.ajax_pagination_infinite_stop = "";
 block_tdi_49.max_num_pages = "3";
 tdBlocksArray.push(block_tdi_49);
 </script><div class="tdb-mega-modules-wrap"><div id=tdi_49 class="td_block_inner">
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
-                        <a href="https://sieviesusarunas.lv/category/fashion/new-look/" class="td-post-category">New Look</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/radio-air-time-marketing-a-new-strategy-for-the-economy/"  rel="bookmark" class="td-image-wrap " title="Radio Air Time Marketing: A New Strategy for the Economy" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/116-324x400.jpg"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/radio-air-time-marketing-a-new-strategy-for-the-economy/"  rel="bookmark" title="Radio Air Time Marketing: A New Strategy for the Economy">Radio Air Time Marketing: A New Strategy for the Economy</a></p>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                    
-                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
-                        <a href="https://sieviesusarunas.lv/category/fashion/new-look/" class="td-post-category">New Look</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/social-media-marketing-for-franchises-is-meant-for-women/"  rel="bookmark" class="td-image-wrap " title="Social Media Marketing for Franchises is Meant for Women" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/115-324x400.jpg"  ></span></a></div>                                            </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/social-media-marketing-for-franchises-is-meant-for-women/"  rel="bookmark" title="Social Media Marketing for Franchises is Meant for Women">Social Media Marketing for Franchises is Meant for Women</a></p>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                    
-                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
         <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
             <div class="td-module-container td-category-pos-image">
                                     <div class="td-image-container">
@@ -708,6 +664,50 @@ tdBlocksArray.push(block_tdi_49);
                 <div class="td-module-meta-info">
                                         
                     <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/how-nancy-reagan-gave-glamour-and-class-to-the-white-house/"  rel="bookmark" title="How Nancy Reagan Gave Glamour and Class to the White House">How Nancy Reagan Gave Glamour and Class to the White House</a></p>
+                    
+                                            <div class="td-editor-date">
+                                                        
+                                                            <span class="td-author-date">
+                                    
+                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-image">
+                                    <div class="td-image-container">
+                        <a href="https://sieviesusarunas.lv/category/fashion/new-look/" class="td-post-category">New Look</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/the-weirdest-places-ashes-have-been-scattered-in-south-america/"  rel="bookmark" class="td-image-wrap " title="The Weirdest Places Ashes Have Been Scattered in South America" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/111-324x400.jpg"  ></span></a></div>                                            </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/the-weirdest-places-ashes-have-been-scattered-in-south-america/"  rel="bookmark" title="The Weirdest Places Ashes Have Been Scattered in South America">The Weirdest Places Ashes Have Been Scattered in South America</a></p>
+                    
+                                            <div class="td-editor-date">
+                                                        
+                                                            <span class="td-author-date">
+                                    
+                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-image">
+                                    <div class="td-image-container">
+                        <a href="https://sieviesusarunas.lv/category/fashion/new-look/" class="td-post-category">New Look</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/the-next-wave-of-superheroes-has-arrived-with-astonishing-impact/"  rel="bookmark" class="td-image-wrap " title="The Next Wave of Superheroes Has Arrived with Astonishing Impact" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/120-324x400.jpg"  ></span></a></div>                                            </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/the-next-wave-of-superheroes-has-arrived-with-astonishing-impact/"  rel="bookmark" title="The Next Wave of Superheroes Has Arrived with Astonishing Impact">The Next Wave of Superheroes Has Arrived with Astonishing Impact</a></p>
                     
                                             <div class="td-editor-date">
                                                         
@@ -953,11 +953,11 @@ tdBlocksArray.push(block_tdi_54);
         <div class="tdb_module_header tdb_module_mm td_module_wrap td-animation-stack td-cpt-post">
             <div class="td-module-container td-category-pos-image">
                                     <div class="td-image-container">
-                        <a href="https://sieviesusarunas.lv/category/video/" class="td-post-category">Video</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/fyre-festival-insight-exclusive-interview-with-ja-rule/"  rel="bookmark" class="td-image-wrap " title="Fyre Festival Insight – Exclusive Interview with Ja Rule" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/112-324x400.jpg"  ></span></a></div>                                            </div>
+                        <a href="https://sieviesusarunas.lv/category/video/" class="td-post-category">Video</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/after-effects-guru-tracking-and-stabilizing-footage/"  rel="bookmark" class="td-image-wrap " title="After Effects Guru: Tracking and Stabilizing Footage" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/117-324x400.jpg"  ></span></a></div>                                            </div>
                 
                 <div class="td-module-meta-info">
                                         
-                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/fyre-festival-insight-exclusive-interview-with-ja-rule/"  rel="bookmark" title="Fyre Festival Insight – Exclusive Interview with Ja Rule">Fyre Festival Insight – Exclusive Interview with Ja Rule</a></p>
+                    <p class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/after-effects-guru-tracking-and-stabilizing-footage/"  rel="bookmark" title="After Effects Guru: Tracking and Stabilizing Footage">After Effects Guru: Tracking and Stabilizing Footage</a></p>
                     
                                             <div class="td-editor-date">
                                                         
@@ -1020,12 +1020,12 @@ tdBlocksArray.push(block_tdi_54);
         <div class="td_module_flex_6 td-animation-stack td-big-grid-flex-post td-big-grid-flex-post-0 td-cpt-post">
             <div class="td-module-container td-category-pos-above">
                 <div class="td-image-container">
-                    <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/mobile-marketing-is-said-to-be-the-future-of-e-commerce/"  rel="bookmark" class="td-image-wrap " title="Mobile Marketing is Said to Be the Future of E-Commerce" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/113-696x464.jpg"  ></span></a></div>                </div>
+                    <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/radio-air-time-marketing-a-new-strategy-for-the-economy/"  rel="bookmark" class="td-image-wrap " title="Radio Air Time Marketing: A New Strategy for the Economy" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/116-696x462.jpg"  ></span></a></div>                </div>
 
                 <div class="td-module-meta-info">
                                         <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>
                     <div class="tdb-module-title-wrap">
-                        <h2 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/mobile-marketing-is-said-to-be-the-future-of-e-commerce/"  rel="bookmark" title="Mobile Marketing is Said to Be the Future of E-Commerce">Mobile Marketing is Said to Be the Future of E-Commerce</a></h2>                    </div>
+                        <h2 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/radio-air-time-marketing-a-new-strategy-for-the-economy/"  rel="bookmark" title="Radio Air Time Marketing: A New Strategy for the Economy">Radio Air Time Marketing: A New Strategy for the Economy</a></h2>                    </div>
 
                                         
                                             <div class="td-editor-date">
@@ -1038,12 +1038,12 @@ tdBlocksArray.push(block_tdi_54);
         <div class="td_module_flex_7 td-animation-stack td-big-grid-flex-post td-big-grid-flex-post-1 td-cpt-post">
             <div class="td-module-container td-category-pos-above">
                 <div class="td-image-container">
-                    <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/how-nancy-reagan-gave-glamour-and-class-to-the-white-house/"  rel="bookmark" class="td-image-wrap " title="How Nancy Reagan Gave Glamour and Class to the White House" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/112-324x400.jpg"  ></span></a></div>                </div>
+                    <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/social-media-marketing-for-franchises-is-meant-for-women/"  rel="bookmark" class="td-image-wrap " title="Social Media Marketing for Franchises is Meant for Women" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/115-324x400.jpg"  ></span></a></div>                </div>
 
                 <div class="td-module-meta-info">
                                         <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>
                     <div class="tdb-module-title-wrap">
-                        <h3 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/how-nancy-reagan-gave-glamour-and-class-to-the-white-house/"  rel="bookmark" title="How Nancy Reagan Gave Glamour and Class to the White House">How Nancy Reagan Gave Glamour and Class to the White House</a></h3>                    </div>
+                        <h3 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/social-media-marketing-for-franchises-is-meant-for-women/"  rel="bookmark" title="Social Media Marketing for Franchises is Meant for Women">Social Media Marketing for Franchises is Meant for Women</a></h3>                    </div>
 
                                         
                                     </div>
@@ -1054,12 +1054,12 @@ tdBlocksArray.push(block_tdi_54);
         <div class="td_module_flex_7 td-animation-stack td-big-grid-flex-post td-big-grid-flex-post-2 td-cpt-post">
             <div class="td-module-container td-category-pos-above">
                 <div class="td-image-container">
-                    <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/the-weirdest-places-ashes-have-been-scattered-in-south-america/"  rel="bookmark" class="td-image-wrap " title="The Weirdest Places Ashes Have Been Scattered in South America" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/111-324x400.jpg"  ></span></a></div>                </div>
+                    <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/entrepreneurial-advertising-the-future-of-marketing/"  rel="bookmark" class="td-image-wrap " title="Entrepreneurial Advertising: The Future Of Marketing" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/114-324x400.jpg"  ></span></a></div>                </div>
 
                 <div class="td-module-meta-info">
                                         <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>
                     <div class="tdb-module-title-wrap">
-                        <h3 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/the-weirdest-places-ashes-have-been-scattered-in-south-america/"  rel="bookmark" title="The Weirdest Places Ashes Have Been Scattered in South America">The Weirdest Places Ashes Have Been Scattered in South America</a></h3>                    </div>
+                        <h3 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/entrepreneurial-advertising-the-future-of-marketing/"  rel="bookmark" title="Entrepreneurial Advertising: The Future Of Marketing">Entrepreneurial Advertising: The Future Of Marketing</a></h3>                    </div>
 
                                         
                                     </div>
@@ -1070,12 +1070,12 @@ tdBlocksArray.push(block_tdi_54);
         <div class="td_module_flex_7 td-animation-stack td-big-grid-flex-post td-big-grid-flex-post-3 td-cpt-post">
             <div class="td-module-container td-category-pos-above">
                 <div class="td-image-container">
-                    <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/the-next-wave-of-superheroes-has-arrived-with-astonishing-impact/"  rel="bookmark" class="td-image-wrap " title="The Next Wave of Superheroes Has Arrived with Astonishing Impact" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/120-324x400.jpg"  ></span></a></div>                </div>
+                    <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/mobile-marketing-is-said-to-be-the-future-of-e-commerce/"  rel="bookmark" class="td-image-wrap " title="Mobile Marketing is Said to Be the Future of E-Commerce" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/113-324x400.jpg"  ></span></a></div>                </div>
 
                 <div class="td-module-meta-info">
                                         <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>
                     <div class="tdb-module-title-wrap">
-                        <h3 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/the-next-wave-of-superheroes-has-arrived-with-astonishing-impact/"  rel="bookmark" title="The Next Wave of Superheroes Has Arrived with Astonishing Impact">The Next Wave of Superheroes Has Arrived with Astonishing Impact</a></h3>                    </div>
+                        <h3 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/mobile-marketing-is-said-to-be-the-future-of-e-commerce/"  rel="bookmark" title="Mobile Marketing is Said to Be the Future of E-Commerce">Mobile Marketing is Said to Be the Future of E-Commerce</a></h3>                    </div>
 
                                         
                                     </div>
@@ -1086,12 +1086,12 @@ tdBlocksArray.push(block_tdi_54);
         <div class="td_module_flex_7 td-animation-stack td-big-grid-flex-post td-big-grid-flex-post-4 td-cpt-post">
             <div class="td-module-container td-category-pos-above">
                 <div class="td-image-container">
-                    <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/watch-awesome-kate-go-full-cooking-pro-in-england-this-week/"  rel="bookmark" class="td-image-wrap " title="Watch Awesome Kate Go Full Cooking Pro in England this Week" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/119-324x400.jpg"  ></span></a></div>                </div>
+                    <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/how-nancy-reagan-gave-glamour-and-class-to-the-white-house/"  rel="bookmark" class="td-image-wrap " title="How Nancy Reagan Gave Glamour and Class to the White House" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/112-324x400.jpg"  ></span></a></div>                </div>
 
                 <div class="td-module-meta-info">
                                         <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>
                     <div class="tdb-module-title-wrap">
-                        <h3 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/watch-awesome-kate-go-full-cooking-pro-in-england-this-week/"  rel="bookmark" title="Watch Awesome Kate Go Full Cooking Pro in England this Week">Watch Awesome Kate Go Full Cooking Pro in England this Week</a></h3>                    </div>
+                        <h3 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/how-nancy-reagan-gave-glamour-and-class-to-the-white-house/"  rel="bookmark" title="How Nancy Reagan Gave Glamour and Class to the White House">How Nancy Reagan Gave Glamour and Class to the White House</a></h3>                    </div>
 
                                         
                                     </div>
@@ -1116,6 +1116,72 @@ tdBlocksArray.push(block_tdi_72);
         <div class="tdb_module_loop td_module_wrap td-animation-stack td-cpt-post">
             <div class="td-module-container td-category-pos-image">
                                     <div class="td-image-container">
+                        <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/the-weirdest-places-ashes-have-been-scattered-in-south-america/"  rel="bookmark" class="td-image-wrap " title="The Weirdest Places Ashes Have Been Scattered in South America" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/111-696x464.jpg" ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/the-weirdest-places-ashes-have-been-scattered-in-south-america/"  rel="bookmark" title="The Weirdest Places Ashes Have Been Scattered in South America">The Weirdest Places Ashes Have Been Scattered in South America</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://sieviesusarunas.lv/author/ginta/">Ginta</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                        <span class="td-module-comments"><a href="https://sieviesusarunas.lv/the-weirdest-places-ashes-have-been-scattered-in-south-america/#respond">0</a></span>                                </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="tdb_module_loop td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-image">
+                                    <div class="td-image-container">
+                        <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/the-next-wave-of-superheroes-has-arrived-with-astonishing-impact/"  rel="bookmark" class="td-image-wrap " title="The Next Wave of Superheroes Has Arrived with Astonishing Impact" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/120-696x472.jpg" ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/the-next-wave-of-superheroes-has-arrived-with-astonishing-impact/"  rel="bookmark" title="The Next Wave of Superheroes Has Arrived with Astonishing Impact">The Next Wave of Superheroes Has Arrived with Astonishing Impact</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://sieviesusarunas.lv/author/ginta/">Ginta</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                        <span class="td-module-comments"><a href="https://sieviesusarunas.lv/the-next-wave-of-superheroes-has-arrived-with-astonishing-impact/#respond">0</a></span>                                </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="tdb_module_loop td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-image">
+                                    <div class="td-image-container">
+                        <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/watch-awesome-kate-go-full-cooking-pro-in-england-this-week/"  rel="bookmark" class="td-image-wrap " title="Watch Awesome Kate Go Full Cooking Pro in England this Week" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/119-696x464.jpg" ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/watch-awesome-kate-go-full-cooking-pro-in-england-this-week/"  rel="bookmark" title="Watch Awesome Kate Go Full Cooking Pro in England this Week">Watch Awesome Kate Go Full Cooking Pro in England this Week</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://sieviesusarunas.lv/author/ginta/">Ginta</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                        <span class="td-module-comments"><a href="https://sieviesusarunas.lv/watch-awesome-kate-go-full-cooking-pro-in-england-this-week/#respond">0</a></span>                                </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="tdb_module_loop td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-image">
+                                    <div class="td-image-container">
                         <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/silicon-valley-guru-affected-by-the-fulminant-slashed/"  rel="bookmark" class="td-image-wrap " title="Silicon Valley Guru Affected by the Fulminant Slashed" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/118-696x465.jpg" ></span></a></div>                                                                    </div>
                 
                 <div class="td-module-meta-info">
@@ -1126,94 +1192,6 @@ tdBlocksArray.push(block_tdi_72);
                                                         
                                                             <span class="td-author-date">
                                                                         <span class="td-post-author-name"><a href="https://sieviesusarunas.lv/author/ginta/">Ginta</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                        <span class="td-module-comments"><a href="https://sieviesusarunas.lv/silicon-valley-guru-affected-by-the-fulminant-slashed/#respond">0</a></span>                                </span>
-                                                    </div>
-                    
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="tdb_module_loop td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
-                        <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/radio-air-time-marketing-a-new-strategy-for-the-economy/"  rel="bookmark" class="td-image-wrap " title="Radio Air Time Marketing: A New Strategy for the Economy" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/116-696x462.jpg" ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/radio-air-time-marketing-a-new-strategy-for-the-economy/"  rel="bookmark" title="Radio Air Time Marketing: A New Strategy for the Economy">Radio Air Time Marketing: A New Strategy for the Economy</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                        <span class="td-post-author-name"><a href="https://sieviesusarunas.lv/author/ginta/">Ginta</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                        <span class="td-module-comments"><a href="https://sieviesusarunas.lv/radio-air-time-marketing-a-new-strategy-for-the-economy/#respond">0</a></span>                                </span>
-                                                    </div>
-                    
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="tdb_module_loop td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
-                        <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/social-media-marketing-for-franchises-is-meant-for-women/"  rel="bookmark" class="td-image-wrap " title="Social Media Marketing for Franchises is Meant for Women" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/115-696x461.jpg" ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/social-media-marketing-for-franchises-is-meant-for-women/"  rel="bookmark" title="Social Media Marketing for Franchises is Meant for Women">Social Media Marketing for Franchises is Meant for Women</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                        <span class="td-post-author-name"><a href="https://sieviesusarunas.lv/author/ginta/">Ginta</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                        <span class="td-module-comments"><a href="https://sieviesusarunas.lv/social-media-marketing-for-franchises-is-meant-for-women/#respond">0</a></span>                                </span>
-                                                    </div>
-                    
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="tdb_module_loop td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
-                        <a href="https://sieviesusarunas.lv/category/architecture/" class="td-post-category">Architecture</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/entrepreneurial-advertising-the-future-of-marketing/"  rel="bookmark" class="td-image-wrap " title="Entrepreneurial Advertising: The Future Of Marketing" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/114-696x464.jpg" ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/entrepreneurial-advertising-the-future-of-marketing/"  rel="bookmark" title="Entrepreneurial Advertising: The Future Of Marketing">Entrepreneurial Advertising: The Future Of Marketing</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                        <span class="td-post-author-name"><a href="https://sieviesusarunas.lv/author/ginta/">Ginta</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:10+00:00" >March 5, 2024</time></span>                                                                        <span class="td-module-comments"><a href="https://sieviesusarunas.lv/entrepreneurial-advertising-the-future-of-marketing/#respond">0</a></span>                                </span>
-                                                    </div>
-                    
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="tdb_module_loop td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
-                        <a href="https://sieviesusarunas.lv/category/fashion/new-look/" class="td-post-category">New Look</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/olivia-wilde-looking-forward-to-new-patterned-dress-collection/"  rel="bookmark" class="td-image-wrap " title="Olivia Wilde Looking Forward to New Patterned Dress Collection" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/120-696x472.jpg" ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/olivia-wilde-looking-forward-to-new-patterned-dress-collection/"  rel="bookmark" title="Olivia Wilde Looking Forward to New Patterned Dress Collection">Olivia Wilde Looking Forward to New Patterned Dress Collection</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                        <span class="td-post-author-name"><a href="https://sieviesusarunas.lv/author/ginta/">Ginta</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:09+00:00" >March 5, 2024</time></span>                                                                        <span class="td-module-comments"><a href="https://sieviesusarunas.lv/olivia-wilde-looking-forward-to-new-patterned-dress-collection/#respond">0</a></span>                                </span>
                                                     </div>
                     
                     
@@ -1324,6 +1302,28 @@ tdBlocksArray.push(block_tdi_72);
                                                         
                                                             <span class="td-author-date">
                                                                         <span class="td-post-author-name"><a href="https://sieviesusarunas.lv/author/ginta/">Ginta</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:09+00:00" >March 5, 2024</time></span>                                                                        <span class="td-module-comments"><a href="https://sieviesusarunas.lv/now-is-the-time-to-think-about-your-small-business-success/#respond">0</a></span>                                </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="tdb_module_loop td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-image">
+                                    <div class="td-image-container">
+                        <a href="https://sieviesusarunas.lv/category/fashion/new-look/" class="td-post-category">New Look</a>                        <div class="td-module-thumb"><a href="https://sieviesusarunas.lv/olivia-wilde-looking-forward-to-new-patterned-dress-collection/"  rel="bookmark" class="td-image-wrap " title="Olivia Wilde Looking Forward to New Patterned Dress Collection" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://sieviesusarunas.lv/wp-content/uploads/2024/03/120-696x472.jpg" ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://sieviesusarunas.lv/olivia-wilde-looking-forward-to-new-patterned-dress-collection/"  rel="bookmark" title="Olivia Wilde Looking Forward to New Patterned Dress Collection">Olivia Wilde Looking Forward to New Patterned Dress Collection</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://sieviesusarunas.lv/author/ginta/">Ginta</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T04:11:09+00:00" >March 5, 2024</time></span>                                                                        <span class="td-module-comments"><a href="https://sieviesusarunas.lv/olivia-wilde-looking-forward-to-new-patterned-dress-collection/#respond">0</a></span>                                </span>
                                                     </div>
                     
                     
@@ -1651,6 +1651,18 @@ tdBlocksArray.push(block_tdi_90);
 
 </div><!--close td-outer-wrap-->
 
+<!-- Gemius Audience for WordPress by TLA Media - http://www.tlamedia.dk/ -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = '';
+
+(function(d,t) {var ex; try {var
+gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':'');
+gt.async='true'; gt.src=l+'://gadk.hit.gemius.pl/xlgemius.js'; s.parentNode.insertBefore(gt,s);} catch (ex)
+{}}(document,'script'));
+//--><!]]>
+</script>
+<!-- End Gemius Audience for WordPress -->
 
 
     <!--
@@ -1659,7 +1671,7 @@ tdBlocksArray.push(block_tdi_90);
         Version: 12.6.4 (rara)
         Deploy mode: deploy
         
-        uid: 65e69c0e1598c
+        uid: 65f028a06c6c2
     -->
 
     <script type="text/javascript" src="https://sieviesusarunas.lv/wp-content/plugins/td-composer/legacy/Newspaper/js/tagdiv_theme.min.js?ver=12.6.4" id="td-site-min-js"></script>
@@ -1802,5 +1814,5 @@ tdBlocksArray.push(block_tdi_90);
 </body>
 </html>
 
-<!-- Cache served by breeze CACHE (Desktop) - Last modified: Tue, 05 Mar 2024 04:14:06 GMT -->
-";s:7:"headers";a:3:{i:0;a:2:{s:4:"name";s:14:"Content-Length";s:5:"value";i:377513;}i:1;a:2:{s:4:"name";s:12:"Content-Type";s:5:"value";s:24:"text/html; charset=utf-8";}i:2;a:2:{s:4:"name";s:13:"Last-Modified";s:5:"value";s:29:"Tue, 05 Mar 2024 04:14:06 GMT";}}}
+<!-- Cache served by breeze CACHE (Desktop) - Last modified: Tue, 12 Mar 2024 10:04:16 GMT -->
+";s:7:"headers";a:3:{i:0;a:2:{s:4:"name";s:14:"Content-Length";s:5:"value";i:378195;}i:1;a:2:{s:4:"name";s:12:"Content-Type";s:5:"value";s:24:"text/html; charset=utf-8";}i:2;a:2:{s:4:"name";s:13:"Last-Modified";s:5:"value";s:29:"Tue, 12 Mar 2024 10:04:16 GMT";}}}
